@@ -1,1 +1,1 @@
-# inventor1
+# inventors
